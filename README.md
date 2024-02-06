@@ -1,5 +1,5 @@
 # DiskDump
-DiskDump is a amd64 / x86_64 ONLY wiping CD/DVD/USB/ISO 
+DiskDump is a amd64 / x86_64 ONLY that wipes almost everything. Bootable from CD/DVD/USB/ISO 
 # Info
 DiskDump was a project of mine to allow me to wipe eMMC chips. The current alternitave, [ShredOS](https://github.com/PartialVolume/shredos.x86_64) cannont as it sadly doesnt contain the drivers.
 # Comparison
