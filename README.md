@@ -15,3 +15,7 @@ DiskDump may seem complicated however it is very simple to use.
 6. If your using the release image you login with username ```root``` and password ```wipe```
 7. type ```nwipe``` in the shell that appears.
 8. Enjoy!
+# Credits
+1. Will Haley's blogpost on how to make debian livecd https://www.willhaley.com/blog/custom-debian-live-environment/
+2. PartialVolume: Inspired me. https://github.com/PartialVolume
+3. Martin. Creator of nwipe. https://github.com/martijnvanbrummelen
