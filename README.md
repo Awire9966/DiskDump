@@ -15,6 +15,22 @@ DiskDump may seem complicated however it is very simple to use.
 6. If your using the release image you login with username ```root``` and password ```wipe```
 7. type ```nwipe``` in the shell that appears.
 8. Enjoy!
+# Build with this sh file
+1. run ```sudo apt-get install \
+    debootstrap \
+    squashfs-tools \
+    xorriso \
+    isolinux \
+    syslinux-efi \
+    grub-pc-bin \
+    grub-efi-amd64-bin \
+    grub-efi-ia32-bin \
+    mtools \
+    dosfstools```
+2. run the script with the following command: ```sudo bash <path to diskdump script>/DiskDumpBuilder.sh <new iso location>```
+3. When it asks, enter the password for your distribution of DiskDump
+4. Enjoy!
+
 # Credits
 1. Will Haley's blogpost on how to make debian livecd https://www.willhaley.com/blog/custom-debian-live-environment/
 2. PartialVolume: Inspired me. https://github.com/PartialVolume
