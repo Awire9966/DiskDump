@@ -1,7 +1,7 @@
 # DiskDump
 DiskDump is a amd64 / x86_64 ONLY that wipes almost everything. Bootable from CD/DVD/USB/ISO 
 # Info
-DiskDump was a project of mine to allow me to wipe eMMC chips. The current alternitave, [ShredOS](https://github.com/PartialVolume/shredos.x86_64) cannont as it sadly doesnt contain the drivers.
+DiskDump was a project of mine to allow me to wipe eMMC chips.
 # Comparison
 [ShredOS](https://github.com/PartialVolume/shredos.x86_64) is good for HDD wiping on 64 and 32 bit machines slightly quicker. (its made with C).
 DiskDump is good for large 64 bit systems with ~750 MB+ Ram with HDD or eMMC disks. The difference in time is about 5-10 minutes. (although often smaller). Now how do I use DiskDump?
