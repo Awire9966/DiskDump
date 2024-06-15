@@ -9,7 +9,7 @@ DiskDump is good for large 64 bit systems with ~750 MB+ Ram with HDD or eMMC dis
 DiskDump may seem complicated however it is very simple to use.
 1. [Get a copy of the image](https://github.com/Awire9966/DiskDump/releases/tag/1.0)
 2. [Write image to your media](https://github.com/Awire9966/DiskDump/blob/main/WRITE_TO_DISK.md)
-3. Open your computer's boot menu. For HP this is often F9 and for Dells its often F11.
+3. Open your computer's boot menu. For HP this is often F9 and for Dells its often F12.
 4. When it says "ISOLINUX" press enter. (Note: If your computer says "GRUB" instead of "ISOLINUX" Your computer may not have UEFI Boot. This should still work.)
 5. A whole bunch of stuff will come up. When it stops press enter.
 6. If your using the release image you login with username ```root``` and password ```wipe```
