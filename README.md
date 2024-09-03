@@ -15,7 +15,7 @@ DiskDump may seem complicated however it is very simple to use.
 6. If your using the release image you login with username ```root``` and password ```wipe```
 7. type ```nwipe``` in the shell that appears.
 8. Enjoy!
-# Build with this sh file
+# Build with this script
 1. run ``sudo apt-get install \
     debootstrap \
     squashfs-tools \
